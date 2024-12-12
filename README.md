@@ -15,18 +15,6 @@ The goal of this task is to:
 - Display user-specific tasks after login.
 - Enable seamless task management (add, update, delete).
 
----
-
-## Task Details
-
-- **Task Name**: To-Do App using Firebase
-- **Start Date**: 10-12-2024, 2:15 PM  
-- **Deadline**: 12-12-2024, 5:00 PM  
-- **Task Assigned By**: Muhammad Usman Vighio  
-- **Task Assigned To**: Mirpurkhas Flutter Team  
-
----
-
 ## Features
 
 - **User Authentication**: Firebase authentication for user signup and login.
