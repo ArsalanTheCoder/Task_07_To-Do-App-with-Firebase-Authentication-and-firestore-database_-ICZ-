@@ -25,13 +25,8 @@ The goal of this task is to:
 
 ---
 
-## Screenshots
+## Demo Video
 
-### Signup Screen
-![Signup Screen](https://via.placeholder.com/600x300?text=Signup+Screen)
+https://github.com/user-attachments/assets/49b6e669-5fa1-4b66-8c98-76633fd4e808
 
-### Login Screen
-![Login Screen](https://via.placeholder.com/600x300?text=Login+Screen)
 
-### Task Management
-![Task Management Screen](https://via.placeholder.com/600x300?text=Task+Management)
